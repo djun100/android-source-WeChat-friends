@@ -1,0 +1,8 @@
+<resources>
+
+    <string name="app_name">Dynamic</string>
+
+    
+    <dimen name="commentLy_height">57dip</dimen>
+    
+</resources>
